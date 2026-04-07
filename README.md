@@ -1,25 +1,17 @@
 # API Testing Portfolio
 
-Professional Postman collection with 40+ test cases.
+Jag är en junior QA testare som lär sig API testing.
 
-## Features
-✅ Authentication testing
-✅ CRUD operations
-✅ Error handling
-✅ Performance testing
+## Vad jag gjorde
 
-## How to Use
-1. Import `postman_ecommerce_pro.json` in Postman
-2. Set environment to `environment.json`
-3. Change `base_url` to any API
-4. Click Run
+Jag skapade en Postman collection med 40+ test cases för att lära mig:
+- Hur man testar REST APIs
+- GET, POST, PUT, PATCH, DELETE
+- Error handling
+- Response validation
 
-## APIs Tested Against
-- https://dummyjson.com
-- https://jsonplaceholder.typicode.com
+## Mina lärdomar
 
-## Skills Demonstrated
-✅ Byta API URLs
-✅ Köra tester mot olika APIs
-✅ Läsa felmeddelanden
-✅ Förstå HTTP status codes
+Jag testade samma collection mot två olika APIs:
+1. **DummyJSON** - Enkelt e-commerce API
+2. **JSONPlaceholder** - Fake API för testing
